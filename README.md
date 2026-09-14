@@ -45,3 +45,5 @@ Este repositório foi desenvolvido como parte de um desafio prático para treina
 ---
 
 👤 **Autor:** [Denner Alves]([https://github.com/seu-usuario](https://github.com/allvv7))
+## 👥 Colaboradores
+- [Alves](https://github.com/lukel2066-lgtm)
