@@ -17,10 +17,10 @@ Este repositório foi desenvolvido como parte de um desafio prático para treina
 
 - [x] Criar conta no GitHub
 - [x] Criar repositório público com README.md
-- [ ] Editar documentação com sintaxe Markdown
-- [ ] Treinar fluxo de colaboração (Fork / Clone / Issues / Pull Requests)
-- [ ] Concluir desafios extras (SSH e README do Perfil)
-- [ ] Submeter o link do repositório para avaliação
+- [x] Editar documentação com sintaxe Markdown
+- [x] Treinar fluxo de colaboração (Fork / Clone / Issues / Pull Requests)
+- [x] Concluir desafios extras (SSH e README do Perfil)
+- [x] Submeter o link do repositório para avaliação
 
 ---
 
